@@ -1,0 +1,12 @@
+.active{
+    opacity: 100%;
+    background-color: white;
+    border-left: 5px solid blueviolet;
+    border-radius: 15px;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.not-active{
+    opacity: 60%;
+}
